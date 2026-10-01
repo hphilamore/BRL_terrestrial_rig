@@ -1,0 +1,5 @@
+Vertical axis D1 - IP 169.254.246.71
+
+Horizontal axis D1 - IP 169.254.204.71
+
+Oak D camera - IP 169.254.254.2
