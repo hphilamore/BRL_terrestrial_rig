@@ -299,6 +299,11 @@ while True:
     Xaxis.multi_move=False
     Yaxis.multi_move=False
 
+    # Shutdown seqeunce
+    Yaxis.homing(10, 100) # Homing (Switch search speed[mm/s], Acceleration for Homing[mm/s²])
+    Xaxis.homing(50, 100) # Homing (Switch search speed[mm/s], Acceleration for Homing[mm/s²]) e.g. (60, 600)
+    time.sleep(0.1) # Wait for 100 ms before starting new movement
+
     Xaxis.set_shutdn()            # Shutdown X axis
     Yaxis.set_shutdn()            # Shutdown Y axis
 
