@@ -1,11 +1,14 @@
-Python script XXX.Python
+--------------------------- SAMPLE CODE -------------------------------------------------
 
-''' Program description + which values to change to personalise the program'''
+Python script xy_gantry_sample_program.py
+
+Dual axis control for point to point movement and 2 axis gantry robot
+All movement parameter can be adopted. E.g. speed, acceleration or position.
 
 
-
-______________________________________________________________________________________
-DO NOT change the D1 motor driver settings before discussing with Hemma Philamore hemma.philamore@bristol.ac.uk!
+--------------------------- D1 MOTOR DRIVER SETTINGS --------------------------------------
+DO NOT change the D1 motor driver settings before discussing with Hemma Philamore! 
+(hemma.philamore@bristol.ac.uk)
 
 To update the D1 motor driver settings: 
 
