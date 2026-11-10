@@ -1,6 +1,6 @@
 Python script XXX.Python
 
-''' Program description + which values to change to personalse the program'''
+''' Program description + which values to change to personalise the program'''
 
 
 
